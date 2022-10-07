@@ -1,3 +1,11 @@
+/* Kirjoita C#-kielellä ohjelma, jossa määrittelet luokan Jumppa, 
+jonka attribuutit ovat nimi (string), ajat (string-tyyppinen taulukko) 
+ja paikat (string-tyyppinen taulukko). Luo ohjelman Main()-metodissa 
+ArrayList-kokoelma, johon lisäät viisi Jumppa-oliota. Alustuksen jälkeen 
+tulosta kokoelman sisältö näytölle. Kehitä edellisessä tehtävässä Jumppa-luokka 
+siten, että sen olioita kokoelmassa pystytään lajittelemaan. Lajittele tämän jälkeen 
+kokoelman sisältö ja tulosta se näytölle.*/
+
 using System;
 using System.Collections.Generic;
 
